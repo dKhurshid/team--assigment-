@@ -1,0 +1,6 @@
+import machine 
+
+machine.learn()
+
+
+
